@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04b9f2db-9a66-4226-9ae6-c216158f2578" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/ContactServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/Order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/OrderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/Search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/SearchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/servlet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task/com.xworkz.task/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xworkz/servlet/FirstServlet.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nireekshaxworkz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nireekshaxworkz/Java",
+    "accountId": "80e90166-69d7-448f-bdfb-eb8b1c80b192"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2nSmTduoN2RIdl8KLMfq9Wl0XHm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04b9f2db-9a66-4226-9ae6-c216158f2578" name="Changes" comment="" />
+      <created>1728974863948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728974863948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
